@@ -2,8 +2,8 @@
 README - MyBooks Android App
 ===============================
 
-Name: [Your Full Name Here]  
-Email: [Your Email Address Here]  
+Name: Mohamed Ali Chaouachi et Mohamed Amine Bouhlali  
+
 App Name: MyBooks - Personal Book Manager
 
 Description:
@@ -22,6 +22,6 @@ The app includes:
 - Data passing between activities
 - LinearLayout structure in various screens
 
-All app data is securely stored in Firebase, and the session is preserved for a smooth user experience. The project is built and structured for Android Studio and uses Retrofit for external API calls.
+All app data is securely stored in Firebase, and the session is preserved for a smooth user experience. The project is built and structured for Android Studio.
 
 Thank you for checking out MyBooks! 
